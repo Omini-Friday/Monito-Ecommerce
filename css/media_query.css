@@ -58,7 +58,8 @@
   .section__seven_showcase,
   .age .dot,
   .text_img_one,
-  .absolute_img1 {
+  .absolute_img1,
+  .section__three {
     display: none;
   }
 
